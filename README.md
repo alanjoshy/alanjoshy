@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About M e:
 👋 About Me<br>Hello!! I'm a passionate freelance python/ flutter developer with expertise in:<br><br>Python 🐍 – writing clean, efficient, and scalable code.<br>Django 🌐 – building robust backend applications with RESTful APIs.<br>Flutter 📱 – creating beautiful, high-performance cross-platform mobile apps.<br>Data Structures & Algorithms (DSA) 📊 – solving complex problems with optimized solutions.<br>JavaScript ⚡ – crafting interactive web experiences and dynamic frontends using React and
 
 
