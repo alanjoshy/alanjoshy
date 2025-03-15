@@ -1,6 +1,6 @@
 <h4 align="center">Hello! 👋<br>I'm Alan Joshy, a passionate Python & JavaScript Developer with experience in Django, React, Flutter, and Machine Learning. I love solving complex problems, building scalable applications, and exploring new technologies.</h4>
 
-###
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
