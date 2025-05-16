@@ -1,84 +1,19 @@
-[![MasterHead](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)](https://alanjoshy.vercel.app/)
+<!-- Banner Image with Parallax Effect --> <div align="center"> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Framework.gif" alt="Banner Image" width="100%"> </div> <!-- Name and Title with Modern Font --> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi%2C+I'm+Alan+Joshy;Welcome+to+my+Profile!" alt="Typing SVG" /> </h1> <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=500&height=50&lines=Backend+Developer;Python+%26+JavaScript+Enthusiast;From+Bangalore%2C+India+🇮🇳" alt="Typing SVG" /> </h3> <div align="center"> <img src="https://komarev.com/ghpvc/?username=alanjo&style=for-the-badge&color=6C63FF" alt="Profile Views" /> </div> <!-- Animated Coding Image --> <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> <!-- About Me Section with Custom Styling -->
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
+javascript
+const alan = {
+  role: "Backend Developer (Full-time)",  
+  learning: ["FastAPI", "React", "NestJS", "Node.js", "Express"],
+  openTo: ["Collaborations", "Contributions", "Freelance Work"],
+  contact: "a1anjshy@gmail.com",
+  portfolio: "alanjoshy.vercel.app",
+  linkedin: "linkedin.com/in/alan--joshy"
+};
+<div align="left"> <a href="mailto:a1anjshy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://alanjoshy.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://www.linkedin.com/in/alan--joshy/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </div> <br> <!-- Tech Stack with Modern Cards -->
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+<div align="center"> <br> <h3>💻 Programming Languages</h3> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <h3>🎨 Frontend</h3> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <h3>⚙️ Backend</h3> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <h3>🗃️ Databases</h3> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> <h3>🧰 Development Tools</h3> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </div> <br> <!-- GitHub Stats Section with Gradient Cards -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=alanjo&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
+<br><br>
 
-<h1 align="center">Hi 👋, I'm Alan Joshy</h1>
-<h3 align="center">aka alanjo • Backend Developer | Python & JavaScript Enthusiast | From Bangalore, India 🇮🇳</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanjo&label=Profile%20views&color=0e75b6&style=flat" alt="alanjo" /> </p>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working as a **Backend Developer** (Full-time)  
-- 🌱 I’m learning **FastAPI, React, NestJS, Node.js, and Express**  
-- 👯 I’m open to **collaborations, contributions, and freelance work**  
-- 📫 Reach me at **a1anjshy@gmail.com**  
-- 🌐 Portfolio: [alanjoshy.vercel.app](https://alanjoshy.vercel.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alan--joshy/)
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-#### 🔧 Backend
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat)
-
-#### 🗃️ Database
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-#### ⚙️ Dev & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
----
-
-### 🏆 GitHub Achievements & Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alanjo&theme=radical&no-bg=true&margin-w=10&column=7" alt="alanjo's trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanjo&show_icons=true&theme=tokyonight" alt="alanjo's stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alanjo&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alan--joshy/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://alanjoshy.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="30" /></a>
-  <a href="mailto:a1anjshy@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
-</p>
+<div> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanjo&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjo&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" /> </div> <br> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=alanjo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanjo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/> </div> <br> <!-- Snake Animation --> <div align="center"> <img alt="Snake Animation" src="https://github.com/alanjo/alanjo/blob/output/github-contribution-grid-snake.svg" /> </div> <br> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/> </div>
