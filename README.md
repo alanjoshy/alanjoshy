@@ -1,5 +1,5 @@
  </div> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi%2C+I'm+Alan+Joshy;WWelcome+to+my+Profile!" alt="Typing SVG" /> </h1> <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=500&height=50&lines=Backend+Developer;Python+%26+JavaScript+Enthusiast;From+Bangalore%2C+India+🇮🇳" alt="Typing SVG" /> </h3> <div align="center"> <img src="https://komarev.com/ghpvc/?username=alanjo&style=for-the-badge&color=6C63FF" alt="Profile Views" /> </div> 
-
+ 
 
 <h3 align="center">aka alanjo • Backend Developer | Python & JavaScript Enthusiast | From Bangalore, India 🇮🇳</h3>
 
