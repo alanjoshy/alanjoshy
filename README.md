@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working as a **Backend Developer** (Full-time)  
-- 🌱 I’m learning **FastAPI, React, NestJS, Node.js, and Express**  
+- 🌱 I’m learning FastAPI,react,Blockchain   
 - 👯 I’m open to **collaborations, contributions, and freelance work**  
 - 📫 Reach me at **a1anjshy@gmail.com**  
 - 🌐 Portfolio: [alanjoshy.vercel.app](https://alanjoshy.vercel.app/)  
@@ -29,15 +29,12 @@
 
 #### 🔧 Backend
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat)
 
 #### 🗃️ Database
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 #### ⚙️ Dev & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
