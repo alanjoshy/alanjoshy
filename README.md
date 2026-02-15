@@ -21,7 +21,7 @@ class AlanJoshy:
     def __init__(self):
         self.role = "Backend Developer"
         self.location = "Bangalore, India 🇮🇳"
-        self.currently_learning = ["FastAPI", "React", "Blockchain"]
+        self.currently_learning = ["FastAPI", "LangChain", "Vector Databases", "RAG", "LlamaIndex"]
         self.open_to = ["Collaborations", "Contributions", "Freelance Work"]
         
     def say_hi(self):
@@ -32,7 +32,7 @@ me.say_hi()
 ```
 
 - 🔭 Currently working as a **Full-time Backend Developer**
-- 🌱 Exploring the intersection of **GenAI** and **modern web frameworks**
+- 🌱 Exploring **LangChain**, **RAG**, **Vector DBs**, and **LlamaIndex** for GenAI applications
 - 💡 Passionate about building scalable, efficient backend systems
 - 📫 Reach me: **a1anjshy@gmail.com**
 
@@ -60,6 +60,14 @@ me.say_hi()
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI & ML Stack
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -89,10 +97,12 @@ me.say_hi()
 
 ---
 
-## 🎨 Activity Graph
+## 🔥 Commit Streak
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanjo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanjo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="600"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=header&animation=twinkling" width="100%"/>
 </div>
 
 ---
