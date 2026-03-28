@@ -19,7 +19,7 @@
 ```python
 class AlanJoshy:
     def __init__(self):
-        self.role = "Backend Developer"
+        self.role = "Cloud Backend Developer"
         self.location = "Bangalore, India 🇮🇳"
         self.currently_learning = ["FastAPI", "LangChain", "Vector Databases", "RAG", "LlamaIndex"]
         self.open_to = ["Collaborations", "Contributions", "Freelance Work"]
